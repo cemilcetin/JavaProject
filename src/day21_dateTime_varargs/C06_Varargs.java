@@ -20,6 +20,7 @@ package day21_dateTime_varargs;
         }
 
         private static void topla(int sayi1, int sayi2, int sayi3) {
+
             System.out.println("sayilarin toplami : " + (sayi1+sayi2+sayi3));
         }
         
